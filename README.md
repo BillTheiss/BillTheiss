@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BillTheiss
+- 👋 Hi, I’m Bill Theiss
 
 <!---
 BillTheiss/BillTheiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
